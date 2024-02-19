@@ -2,8 +2,8 @@
 
 public class CalculateResult
 {
-	public decimal Total;
-	public decimal InputValue;
-	public OperatorEnum Operator;
-	public bool IsCalculated;
+	public decimal Total { get; set; }
+	public decimal InputValue { get; set; }
+	public OperatorEnum Operator { get; set; }
+	public bool IsCalculated { get; set; }
 }

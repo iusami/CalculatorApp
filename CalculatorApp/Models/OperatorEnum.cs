@@ -5,5 +5,6 @@ public enum OperatorEnum
 	Add,
 	Subtract,
 	Multiply,
-	Divide
+	Divide,
+	None
 }
